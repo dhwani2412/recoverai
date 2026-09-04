@@ -28,6 +28,8 @@ This separation ensures that AI recommendations remain controlled by determinist
 
 ## Architecture
 
+![RecoverAI Architecture](docs/architecture.png)
+
 ```text
                          ┌──────────────────┐
                          │     Razorpay     │
